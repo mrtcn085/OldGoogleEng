@@ -1,0 +1,74 @@
+.g-logo {
+   width: 500px;
+   height: auto;
+   margin-left: 800px;
+   margin-top: 400px;
+}
+.container {
+    margin-left: 750px;
+    background-color: rgb(222, 222, 222);
+    width: 600px;
+    height: 90px;
+    border-right: 500px;
+    text-align: center;
+    font: bold;
+    border-radius: 10px;
+}
+.txt3 {
+    padding:8px 20px;
+    border: 1px solid #eee;
+    border-left: 3px solid; 
+    border-left-color:salmon;  
+    border-radius: 5px;  
+    transition: border-color .8s ease-out;
+}
+.txt3:focus {
+    outline: none;
+    border: 1px solid #eee;
+    border-left: 3px solid #888;
+}
+.box1 {
+    background-color: aquamarine;
+    width: 200px;
+    height: 90px;
+    text-align: center;
+    margin-left: 750px;
+    margin-top: -14px;
+    border-radius: 10px;
+}
+.box2 {
+    background-color: aquamarine;
+    width: 200px;
+    height: 90px;
+    text-align: center;
+    margin-left: 951px;
+    margin-top: -90px;
+    border-radius: 10px;
+
+}
+.box3 {
+    background-color: aquamarine;
+    width: 200px;
+    height: 90px;
+    text-align: center;
+    margin-left: 1152px;
+    margin-top: -106px;
+    border-radius: 10px;
+
+}
+.txt2 {
+    width: 70px;
+    text-align: center;
+}
+.src {
+    margin-left: 940px;
+    position: relative;
+}
+body {
+    margin-top: -150px;
+    
+}
+.txt1 {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
